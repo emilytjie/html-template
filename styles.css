@@ -1,2 +1,20 @@
-/* CSS styles */
+body {background: #e2e2e2
+}
+p {color: grey; 
+  font-family: "Montserrat";
+  text-align: center;
+  font-size:120%
+}
+h1 { color: #A9A9A9; 
+   font-family: "Reenie Beanie"; 
+     text-align: center;
+    font-size: 400%;
+}
+span { color: 	#B22222;
+      font-size: 120%;
+}
 
+p.price {font-size: 200%}
+img.cover {
+  display:block;
+  margin:auto;
